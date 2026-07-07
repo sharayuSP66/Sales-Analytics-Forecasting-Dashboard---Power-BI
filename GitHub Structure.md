@@ -26,13 +26,8 @@ Sales-Analytics-Forecasting-Dashboard/
 
 ├── Screenshots/
 
-│   ├── Sales\_and\_profit\_analytics\_dashboard.png
+    ├── Sales\_and\_profit\_analytics\_dashboard.png
 
-│   ├── Sales\_Forecasting\_dashboard.png
+    ├── Sales\_Forecasting\_dashboard.png
 
-│
-
-├── Proof\_of\_Concept/
-
-&#x20;   └── #Proof\_of\_Concept-Dashboard.md
 
