@@ -55,6 +55,43 @@ The project uses a Super Store Sales dataset containing **5,901 transaction reco
 
 
 
+* ###### **Architecture / Workflow Diagram - Sales Analytics & Forecasting Dashboard | Power BI :**
+
+
+
+Excel Dataset
+
+      │
+      ▼
+      
+Power Query
+(Data Cleaning & Transformation)
+
+      │
+      ▼
+      
+Data Model
+(Relationships)
+
+      │      
+      ▼
+      
+DAX Measures
+(KPIs)
+
+      │
+      ▼
+      
+Power BI Dashboard
+
+      │
+      ▼
+      
+Business Insights & Forecasting
+
+
+
+
 * ###### **Dashboard Features :**
 
 
